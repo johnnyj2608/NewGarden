@@ -93,3 +93,28 @@ body {
 .main h2 {
   font-size: 1.5rem;
 }
+
+/* -------------- *
+ * Nav Bar
+ * -------------- */
+footer {
+  background-color: #131313;
+  color: #ff0000;
+}
+
+.foot {
+  height: 5svh;
+  display: flex;
+}
+
+footer h5 {
+  margin-bottom: 0;
+}
+
+footer i {
+  color: red;
+}
+
+footer p {
+  color: rgb(255, 255, 255);
+}
