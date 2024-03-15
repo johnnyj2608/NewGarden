@@ -123,4 +123,6 @@ footer i {
 
 footer p {
   color: rgb(255, 255, 255);
+  line-height: 1.5;
+  white-space: nowrap;
 }
